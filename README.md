@@ -33,8 +33,4 @@ The ultimate goal of this project is to provide an easily accessible platform fo
 - **Model Serialization**: Joblib
 - **Python Libraries**: NumPy, Scikit-learn, Pandas
 
-## How to Run the Project Locally
 
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/covid-19-prediction.git
